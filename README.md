@@ -4,7 +4,6 @@ This repo aims to provides a comprehensive list of papers about LLM inference (a
 
 
 # In-context Learning
-Here are all the paper items transformed into the requested format:
 
 What learning algorithm is in-context learning? investigations with linear models[ICLR][2023]
 
@@ -77,7 +76,27 @@ Character-level convolutional networks for text classification[NeurIPS][2015]
 
 
 # Reasoning Single call/multi calls/agents
+Here are the provided papers formatted as requested:
 
+Chain-of-thought prompting elicits reasoning in large language models[NeurIPS][2022]  
+Machine Translation Decoding beyond Beam Search[EMNLP][2021]  
+Transfer Q-star: Principled Decoding for LLM Alignment[NeurIPS][2024]  
+Break the Sequential Dependency of LLM Inference Using Lookahead Decoding[ICML][2024]  
+Large language monkeys: Scaling inference compute with repeated sampling[arXiv][2024]  
+Self-Consistency Improves Chain of Thought Reasoning in Language Models[ICLR][2023]  
+Tree of thoughts: Deliberate problem solving with large language models[NeurIPS][2024]  
+Graph of thoughts: Solving elaborate problems with large language models[AAAI][2024]  
+Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning[ICLR][2024]  
+Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph[ICLR][2024]  
+StructGPT: A General Framework for Large Language Model to Reason over Structured Data[EMNLP][2023]  
+Camel: Communicative agents for "mind" exploration of large language model society[NeurIPS][2023]  
+MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework[ICLR][2024]  
+AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation[ICLR][2024]  
+Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models[ICML][2024]  
+Voyager: An Open-Ended Embodied Agent with Large Language Models[Proceedings of the Machine Learning Research][TBD]  
+Can Transformers Learn to Solve Problems Recursively?[arXiv][2023]  
+Improving Factuality and Reasoning in Language Models through Multiagent Debate[ICML][2024]  
+Encouraging divergent thinking in large language models through multi-agent debate[arXiv][2023]  
 
 
 
