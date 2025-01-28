@@ -5,6 +5,8 @@ This repo aims to provides a comprehensive list of papers about LLM inference (a
 
 # In-context Learning
 
+What Do Language Models Learn in Context? The Structured Task Hypothesis[EMNLP][2024]
+
 What learning algorithm is in-context learning? investigations with linear models[ICLR][2023]
 
 In-context language learning: Architectures and algorithms[arXiv][2024]
